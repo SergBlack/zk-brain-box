@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "base/my zettelkasten.md",
+            "file": "base/javascript/Динамичная типизация.md",
             "mode": "source",
             "source": true
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "base/my zettelkasten.md",
+                "file": "base/javascript/Динамичная типизация.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "base/my zettelkasten.md"
+                "file": "base/javascript/Динамичная типизация.md"
               }
             }
           }
@@ -118,13 +118,15 @@
   },
   "active": "c865dab16f7719ea",
   "lastOpenFiles": [
+    "base/javascript/Динамичная типизация.md",
+    "base/javascript/Типы данных.md",
+    "base/Типыыыыы данных.md",
     "base/my zettelkasten.md",
     "_templates/_new_note.md",
     "base/some file link.md",
     "base/second-file.md",
     "base/third-file.md",
     "link to some file.md",
-    "AWS.md",
-    "Untitled.md"
+    "AWS.md"
   ]
 }
