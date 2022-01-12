@@ -12,4 +12,4 @@ Text
 
 --- 
 ### Links
-- [[some note link]]
+- [[]]

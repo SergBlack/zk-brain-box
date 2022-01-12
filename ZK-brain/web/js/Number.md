@@ -1,5 +1,5 @@
 202201112251
-Tags: #javascript #status-in-progress 
+Tags: #javascript
 
 --- 
 # Number

@@ -5,5 +5,10 @@
   "promptDelete": false,
   "newFileLocation": "folder",
   "newFileFolderPath": "base",
-  "attachmentFolderPath": "files"
+  "attachmentFolderPath": "files",
+  "spellcheck": true,
+  "spellcheckLanguages": [
+    "ru",
+    "en-US"
+  ]
 }

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "web/js/Number.md",
+            "file": "base/Career Map.md",
             "mode": "source",
             "source": true
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#javascript",
+                "query": "advanced",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "web/js/Number.md",
+                "file": "base/Career Map.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "web/js/Number.md"
+                "file": "base/Career Map.md"
               }
             }
           }
@@ -118,15 +118,15 @@
   },
   "active": "c865dab16f7719ea",
   "lastOpenFiles": [
-    "web/js/Number.md",
-    "web/js/Типы данных.md",
+    "base/Career Map.md",
+    "_templates/_new_note.md",
     "web/js/Динамичная типизация.md",
-    "base/my zettelkasten.md",
-    "base/js/Число.md",
     "web/ts/Typescript.md",
-    "web/js/Null.md",
-    "web/js/Boolean.md",
-    "web/js/BigInt.md",
-    "web/js/Symbol.md"
+    "web/js/Undefined.md",
+    "web/js/Symbol.md",
+    "web/js/String.md",
+    "web/js/Number.md",
+    "web/js/Object.md",
+    "web/js/Null.md"
   ]
 }

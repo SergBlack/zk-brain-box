@@ -1,5 +1,5 @@
 202201081355
-Tags: #common #status-in-progress
+Tags: #common
 
 --- 
 # My Zettelkasten
@@ -32,4 +32,6 @@ Tags: #common #status-in-progress
 ## Type tags
 - #common - common notes
 - #clouds - cloud technologies
-- #web - web technologies
+- #computer-science - computer science
+- #javascript - JavaScript
+- #typescript - typescript
