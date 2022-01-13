@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "base/Career Map.md",
+            "file": "web/js/BigInt.md",
             "mode": "source",
             "source": true
           }
@@ -77,14 +77,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "base/Career Map.md",
+                "file": "web/js/BigInt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -105,12 +105,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "base/Career Map.md"
+                "file": "web/js/BigInt.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -118,15 +117,15 @@
   },
   "active": "c865dab16f7719ea",
   "lastOpenFiles": [
+    "web/js/BigInt.md",
     "base/Career Map.md",
-    "_templates/_new_note.md",
-    "web/js/Динамичная типизация.md",
-    "web/ts/Typescript.md",
-    "web/js/Undefined.md",
-    "web/js/Symbol.md",
+    "web/js/Null.md",
+    "web/js/Типы данных.md",
+    "web/js/Boolean.md",
     "web/js/String.md",
-    "web/js/Number.md",
     "web/js/Object.md",
-    "web/js/Null.md"
+    "web/js/Логические операторы.md",
+    "web/js/Template literals (Template strings).md",
+    "web/js/Tagged templates.md"
   ]
 }

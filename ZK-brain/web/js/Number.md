@@ -3,7 +3,8 @@ Tags: #javascript
 
 --- 
 # Number
-Обычные числа в javasript хранятся в 64 битах (double presicion floating point numbers)
+Обычные числа в javasript хранятся в 64 битах (double presicion floating point numbers).
+Максимальное значение 2^53 (либо для положительного, либо для отрицательного).
 
 Способы записи:
 1. обычный
