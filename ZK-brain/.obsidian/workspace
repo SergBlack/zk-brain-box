@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "inbox/Контекст вызова функции.md",
+            "file": "web/js/This.md",
             "mode": "source",
             "source": true
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "advanced",
+                "query": "this",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "inbox/Контекст вызова функции.md",
+                "file": "web/js/This.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "inbox/Контекст вызова функции.md"
+                "file": "web/js/This.md"
               }
             }
           }
@@ -117,15 +117,15 @@
   },
   "active": "c865dab16f7719ea",
   "lastOpenFiles": [
-    "inbox/Контекст вызова функции.md",
+    "web/js/This.md",
+    "web/js/Контекст вызова функции.md",
+    "web/js/Template literals (Template strings).md",
+    "web/js/Динамичная типизация.md",
     "inbox/Remove cached files.md",
     "web/Web.md",
     "base/Career Map.md",
     "base/my zettelkasten.md",
     "web/js/Tagged templates.md",
-    "web/js/Undefined.md",
-    "web/js/Template literals (Template strings).md",
-    "web/js/Symbol.md",
-    "web/js/String.md"
+    "web/js/Undefined.md"
   ]
 }
