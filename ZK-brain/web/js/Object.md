@@ -11,4 +11,4 @@ https://learn.javascript.ru/object
 
 --- 
 ### Links
-- [[]]
+- [[Функции]]
