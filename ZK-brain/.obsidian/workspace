@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "base/Career Map.md",
+            "file": "additional/Git.md",
             "mode": "source",
             "source": true
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "base/Career Map.md",
+                "file": "additional/Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "base/Career Map.md"
+                "file": "additional/Git.md"
               }
             }
           }
@@ -117,15 +117,15 @@
   },
   "active": "c865dab16f7719ea",
   "lastOpenFiles": [
+    "additional/Git.md",
+    "additional/Remove cached files.md",
     "base/Career Map.md",
-    "base/Git.md",
+    "base/my zettelkasten.md",
     "web/js/Обычные функции.md",
     "web/js/Функции.md",
     "web/js/Чистая функция.md",
     "web/js/Мемоизация функции.md",
     "web/js/Стрелочные функции.md",
-    "web/js/Параметры (аргументы) функции.md",
-    "web/js/Object.md",
-    "web/js/Динамичная типизация.md"
+    "web/js/Параметры (аргументы) функции.md"
   ]
 }

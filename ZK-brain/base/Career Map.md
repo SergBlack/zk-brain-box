@@ -46,6 +46,9 @@ Tags: #career
 ## English:
 - B2 - Core
 
+## Additional materials
+- Git
+
 --- 
 ### Links
 - [[Web]]
@@ -55,3 +58,4 @@ Tags: #career
 - [[Quality & EngX]]
 - [[Leadership and Soft skills]]
 - [[English]]
+- [[Git]]
