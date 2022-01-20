@@ -16,7 +16,7 @@ Tags: #career
 - JavaScript top frameworks - Advanced
 
 ## T-Shape:
-- Node.js - Intermediate
+- NodeJS - Intermediate
 - Software engineering knowledge and experience - Advanced
 - Cloud fundamentals - Advanced
 - JavaScript Cross-Mobile Platform - Intermediate (OPTIONAL)
@@ -46,7 +46,7 @@ Tags: #career
 ## English:
 - B2 - Core
 
-## Additional materials
+## Other materials
 - Git
 
 --- 
@@ -58,4 +58,4 @@ Tags: #career
 - [[Quality & EngX]]
 - [[Leadership and Soft skills]]
 - [[English]]
-- [[Git]]
+- [[Other materials]]

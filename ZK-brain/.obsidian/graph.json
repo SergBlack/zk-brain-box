@@ -8,31 +8,38 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "common",
+      "query": "#common",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 3321415
       }
     },
     {
-      "query": "javascript",
+      "query": "#javascript",
       "color": {
         "a": 1,
         "rgb": 14725458
       }
     },
     {
-      "query": "typescript",
+      "query": "#typescript",
       "color": {
         "a": 1,
         "rgb": 5526240
       }
     },
     {
-      "query": "career",
+      "query": "#career",
       "color": {
         "a": 1,
-        "rgb": 5431378
+        "rgb": 10430504
+      }
+    },
+    {
+      "query": "#clouds",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
       }
     }
   ],
@@ -46,6 +53,6 @@
   "repelStrength": 13.4456928838951,
   "linkStrength": 1,
   "linkDistance": 342,
-  "scale": 0.6024013357398953,
+  "scale": 0.6024013357398933,
   "close": false
 }
