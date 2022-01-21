@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "clouds/Cloud fundamentals.md",
+            "file": "clouds/Lambda Lifecycle.md",
             "mode": "source",
             "source": true
           }
@@ -57,8 +57,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -78,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "clouds/Cloud fundamentals.md",
+                "file": "clouds/Lambda Lifecycle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "clouds/Cloud fundamentals.md"
+                "file": "clouds/Lambda Lifecycle.md"
               }
             }
           }
@@ -119,15 +118,15 @@
   },
   "active": "c865dab16f7719ea",
   "lastOpenFiles": [
+    "clouds/Lambda Lifecycle.md",
+    "clouds/Serverless.md",
+    "clouds/Lambda Limitations.md",
+    "clouds/AWS Lambda.md",
+    "files/Pasted image 20220121094343.png",
+    "clouds/AWS.md",
     "clouds/Cloud fundamentals.md",
     "base/_my zettelkasten.md",
     "base/_Career Map.md",
-    "base/T-Shape.md",
-    "base/Web.md",
-    "base/Software design.md",
-    "_templates/_new_note.md",
-    "base/Quality & EngX.md",
-    "base/Other materials.md",
-    "base/English.md"
+    "base/T-Shape.md"
   ]
 }
