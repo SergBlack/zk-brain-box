@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "clouds/Lambda Lifecycle.md",
+            "file": "base/Other materials.md",
             "mode": "source",
             "source": true
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "clouds/Lambda Lifecycle.md",
+                "file": "base/Other materials.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "clouds/Lambda Lifecycle.md"
+                "file": "base/Other materials.md"
               }
             }
           }
@@ -118,15 +118,15 @@
   },
   "active": "c865dab16f7719ea",
   "lastOpenFiles": [
-    "clouds/Lambda Lifecycle.md",
-    "clouds/Serverless.md",
-    "clouds/Lambda Limitations.md",
-    "clouds/AWS Lambda.md",
-    "files/Pasted image 20220121094343.png",
+    "base/Other materials.md",
     "clouds/AWS.md",
+    "clouds/AWS API Gateway.md",
+    "clouds/AWS Lambda.md",
     "clouds/Cloud fundamentals.md",
-    "base/_my zettelkasten.md",
-    "base/_Career Map.md",
-    "base/T-Shape.md"
+    "clouds/Lambda Coding Best Practices.md",
+    "clouds/Lambda Invocation.md",
+    "clouds/Lambda Lifecycle.md",
+    "clouds/Lambda Limitations.md",
+    "clouds/Lambda Triggers.md"
   ]
 }

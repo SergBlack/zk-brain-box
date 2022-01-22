@@ -17,5 +17,7 @@ https://aws.amazon.com/ru/lambda/?nc2=h_ql_prod_fs_lbd
 
 --- 
 ### Links
+- [[Lambda Coding Best Practices]]
 - [[Lambda Limitations]]
 - [[Lambda Lifecycle]]
+- [[Lambda Triggers]]
