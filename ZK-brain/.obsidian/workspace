@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "base/Other materials.md",
+            "file": "fundamentals/Clean code.md",
             "mode": "source",
             "source": true
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "base/Other materials.md",
+                "file": "fundamentals/Clean code.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "base/Other materials.md"
+                "file": "fundamentals/Clean code.md"
               }
             }
           }
@@ -118,15 +118,15 @@
   },
   "active": "c865dab16f7719ea",
   "lastOpenFiles": [
+    "fundamentals/Clean code.md",
+    "fundamentals/К чему приводит говнокод.md",
+    "fundamentals/Средний жизненный цикл приложения.md",
+    "base/Quality & EngX.md",
+    "base/_Career Map.md",
+    "base/Software design.md",
     "base/Other materials.md",
     "clouds/AWS.md",
     "clouds/AWS API Gateway.md",
-    "clouds/AWS Lambda.md",
-    "clouds/Cloud fundamentals.md",
-    "clouds/Lambda Coding Best Practices.md",
-    "clouds/Lambda Invocation.md",
-    "clouds/Lambda Lifecycle.md",
-    "clouds/Lambda Limitations.md",
-    "clouds/Lambda Triggers.md"
+    "clouds/AWS Lambda.md"
   ]
 }
