@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "fundamentals/Именование переменных, классов, функций.md",
+            "file": "fundamentals/Именование элементов кода.md",
             "mode": "source",
             "source": true
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "fundamentals/Именование переменных, классов, функций.md",
+                "file": "fundamentals/Именование элементов кода.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "fundamentals/Именование переменных, классов, функций.md"
+                "file": "fundamentals/Именование элементов кода.md"
               }
             }
           }
@@ -118,15 +118,15 @@
   },
   "active": "c865dab16f7719ea",
   "lastOpenFiles": [
-    "fundamentals/Именование переменных, классов, функций.md",
-    "fundamentals/Clean code.md",
+    "fundamentals/Именование элементов кода.md",
+    "fundamentals/Правила именования.md",
     "fundamentals/Критерии Clean Code.md",
+    "fundamentals/Clean code.md",
     "fundamentals/Средний жизненный цикл приложения.md",
     "fundamentals/К чему приводит говнокод.md",
     "base/Quality & EngX.md",
     "base/_Career Map.md",
     "base/Software design.md",
-    "base/Other materials.md",
-    "clouds/AWS.md"
+    "base/Other materials.md"
   ]
 }
