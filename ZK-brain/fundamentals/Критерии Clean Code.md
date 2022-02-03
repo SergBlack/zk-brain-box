@@ -1,5 +1,5 @@
 202202022321
-Tags: #common 
+Tags: #fundamentals 
 
 --- 
 # Критерии Clean Code

@@ -1,5 +1,4 @@
 202201081355
-Tags: #help
 
 --- 
 # My Zettelkasten
@@ -30,8 +29,11 @@ Tags: #help
 - #status-not-relevant - wrong or reworked ideas
 
 ## Type tags
-- #common - common notes
-- #clouds - cloud technologies
-- #computer-science - computer science
 - #javascript - JavaScript
-- #typescript - typescript
+- #clouds - cloud technologies
+- #base - includes career map and primary skills
+- #aws - AWS clouds
+- #fundamentals - fundamentals
+- #computer-science - computer science
+- #typescript - Typescript
+- #serverless  - Serverless framework

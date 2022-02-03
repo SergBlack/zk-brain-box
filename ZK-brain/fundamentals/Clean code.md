@@ -1,5 +1,5 @@
 202202022223
-Tags: #common 
+Tags: #fundamentals 
 
 --- 
 # Clean code

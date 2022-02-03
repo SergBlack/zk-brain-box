@@ -1,5 +1,5 @@
 202201210910
-Tags: #clouds
+Tags: #clouds #serverless
 
 --- 
 # Serverless

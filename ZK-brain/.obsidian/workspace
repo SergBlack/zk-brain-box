@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_inbox/Функции.md",
+            "file": "web/ts/Typescript.md",
             "mode": "source",
             "source": true
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "функц",
+                "query": "tag:#computer-science",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_inbox/Функции.md",
+                "file": "web/ts/Typescript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,11 +105,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_inbox/Функции.md"
+                "file": "web/ts/Typescript.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -117,15 +118,15 @@
   },
   "active": "c865dab16f7719ea",
   "lastOpenFiles": [
-    "_inbox/Функции.md",
-    "_inbox/JavaScript.md",
-    "_inbox/JavaScript in Browser.md",
-    "fundamentals/Clean code.md",
-    "base/Quality & EngX.md",
-    "fundamentals/Средний жизненный цикл приложения.md",
-    "fundamentals/Правила именования.md",
-    "fundamentals/Критерии Clean Code.md",
-    "web/js/Обычные функции.md",
-    "web/js/Мемоизация функции.md"
+    "web/ts/Typescript.md",
+    "web/js/Undefined.md",
+    "web/js/This.md",
+    "web/js/Template literals (Template strings).md",
+    "web/js/Tagged templates.md",
+    "web/js/Symbol.md",
+    "web/js/String.md",
+    "web/js/Object.md",
+    "web/js/Number.md",
+    "web/js/Null.md"
   ]
 }
