@@ -12,4 +12,4 @@ https://learn.javascript.ru/object
 --- 
 ### Links
 - [[This]]
-- [[Функции]]
+- [[web/js/Функции]]

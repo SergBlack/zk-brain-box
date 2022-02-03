@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "fundamentals/Именование элементов кода.md",
+            "file": "_inbox/Функции.md",
             "mode": "source",
             "source": true
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#common",
+                "query": "функц",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,11 +77,11 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "fundamentals/Именование элементов кода.md",
+                "file": "_inbox/Функции.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
@@ -105,12 +105,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "fundamentals/Именование элементов кода.md"
+                "file": "_inbox/Функции.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -118,15 +117,15 @@
   },
   "active": "c865dab16f7719ea",
   "lastOpenFiles": [
-    "fundamentals/Именование элементов кода.md",
+    "_inbox/Функции.md",
+    "_inbox/JavaScript.md",
+    "_inbox/JavaScript in Browser.md",
+    "fundamentals/Clean code.md",
+    "base/Quality & EngX.md",
+    "fundamentals/Средний жизненный цикл приложения.md",
     "fundamentals/Правила именования.md",
     "fundamentals/Критерии Clean Code.md",
-    "fundamentals/Clean code.md",
-    "fundamentals/Средний жизненный цикл приложения.md",
-    "fundamentals/К чему приводит говнокод.md",
-    "base/Quality & EngX.md",
-    "base/_Career Map.md",
-    "base/Software design.md",
-    "base/Other materials.md"
+    "web/js/Обычные функции.md",
+    "web/js/Мемоизация функции.md"
   ]
 }
