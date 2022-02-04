@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "web/ts/Typescript.md",
+            "file": "fundamentals/Правила создания функций.md",
             "mode": "source",
             "source": true
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "web/ts/Typescript.md",
+                "file": "fundamentals/Правила создания функций.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "web/ts/Typescript.md"
+                "file": "fundamentals/Правила создания функций.md"
               }
             }
           }
@@ -118,15 +118,15 @@
   },
   "active": "c865dab16f7719ea",
   "lastOpenFiles": [
-    "web/ts/Typescript.md",
-    "web/js/Undefined.md",
-    "web/js/This.md",
-    "web/js/Template literals (Template strings).md",
-    "web/js/Tagged templates.md",
-    "web/js/Symbol.md",
-    "web/js/String.md",
-    "web/js/Object.md",
-    "web/js/Number.md",
-    "web/js/Null.md"
+    "fundamentals/Правила создания функций.md",
+    "fundamentals/Чистая функция.md",
+    "fundamentals/Clean code.md",
+    "fundamentals/Что такое функции.md",
+    "fundamentals/Средний жизненный цикл приложения.md",
+    "fundamentals/Правила именования.md",
+    "fundamentals/Мемоизация функции.md",
+    "fundamentals/Критерии Clean Code.md",
+    "fundamentals/К чему приводит говнокод.md",
+    "fundamentals/Именование элементов кода.md"
   ]
 }
