@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "fundamentals/Правила создания функций.md",
+            "file": "fundamentals/Параметры функции.md",
             "mode": "source",
             "source": true
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "fundamentals/Правила создания функций.md",
+                "file": "fundamentals/Параметры функции.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "fundamentals/Правила создания функций.md"
+                "file": "fundamentals/Параметры функции.md"
               }
             }
           }
@@ -118,15 +118,15 @@
   },
   "active": "c865dab16f7719ea",
   "lastOpenFiles": [
-    "fundamentals/Правила создания функций.md",
-    "fundamentals/Чистая функция.md",
-    "fundamentals/Clean code.md",
+    "fundamentals/Параметры функции.md",
     "fundamentals/Что такое функции.md",
     "fundamentals/Средний жизненный цикл приложения.md",
     "fundamentals/Правила именования.md",
+    "fundamentals/Правила создания функций.md",
+    "fundamentals/Чистая функция.md",
+    "fundamentals/Clean code.md",
     "fundamentals/Мемоизация функции.md",
     "fundamentals/Критерии Clean Code.md",
-    "fundamentals/К чему приводит говнокод.md",
-    "fundamentals/Именование элементов кода.md"
+    "fundamentals/К чему приводит говнокод.md"
   ]
 }
