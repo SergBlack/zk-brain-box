@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "web/additional/Docker контейнер.md",
+            "file": "web/additional/Docker команды.md",
             "mode": "source",
             "source": true
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "web/additional/Docker контейнер.md",
+                "file": "web/additional/Docker команды.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "web/additional/Docker контейнер.md"
+                "file": "web/additional/Docker команды.md"
               }
             }
           }
@@ -118,15 +118,15 @@
   },
   "active": "4de13a75b1412517",
   "lastOpenFiles": [
+    "web/additional/Docker команды.md",
     "web/additional/Docker контейнер.md",
+    "web/additional/Docker image.md",
     "web/additional/Docker.md",
     "web/additional/Git.md",
     "web/additional/Remove cached files.md",
     "base/Other materials.md",
     "base/_Career Map.md",
     "base/_my zettelkasten.md",
-    "base/Leadership and Soft skills.md",
-    "base/English.md",
-    "fundamentals/Параметры функции.md"
+    "base/Leadership and Soft skills.md"
   ]
 }
