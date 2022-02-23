@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "web/js/Объявление переменных через var, let, const.md",
+            "file": "base/Temporary dead zone.md",
             "mode": "source",
             "source": true
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "перемен",
+                "query": "Источник",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "web/js/Объявление переменных через var, let, const.md",
+                "file": "base/Temporary dead zone.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "web/js/Объявление переменных через var, let, const.md"
+                "file": "base/Temporary dead zone.md"
               }
             }
           }
@@ -118,15 +118,15 @@
   },
   "active": "4de13a75b1412517",
   "lastOpenFiles": [
+    "base/Temporary dead zone.md",
+    "web/js/Лексическое окружение.md",
+    "web/js/Замыкание.md",
+    "web/js/Динамичная и статичная типизация.md",
+    "web/js/Области видимости.md",
+    "web/js/Hoisting.md",
     "web/js/Объявление переменных через var, let, const.md",
     "web/js/Логические операторы.md",
-    "web/js/Контекст вызова функции.md",
-    "_inbox/JavaScript.md",
-    "web/js/Динамичная и статичная типизация.md",
-    "fundamentals/Что такое функции.md",
-    "clouds/Cloud fundamentals.md",
-    "base/Other materials.md",
-    "base/Leadership and Soft skills.md",
-    "base/Frameworks.md"
+    "web/js/Стрелочные функции.md",
+    "web/js/JavaScript.md"
   ]
 }
