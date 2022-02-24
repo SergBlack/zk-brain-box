@@ -14,4 +14,4 @@ Tags: #javascript
 --- 
 ### Links
 - [[Hoisting]]
-- [[Temporary dead zone]]
+- [[Temporal dead zone]]
