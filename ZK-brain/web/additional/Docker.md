@@ -14,5 +14,6 @@ Tags: #virtualization
 
 --- 
 ### Links
+- [[Docker image]]
 - [[Docker контейнер]]
 - [[Docker команды]]
