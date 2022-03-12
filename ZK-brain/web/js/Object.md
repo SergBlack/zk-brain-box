@@ -12,4 +12,5 @@ https://learn.javascript.ru/object
 --- 
 ### Links
 - [[This]]
-- [[web/js/Функции]]
+- [[Функции]]
+- [[Garbage collector]]
