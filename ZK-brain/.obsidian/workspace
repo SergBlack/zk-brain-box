@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "web/js/Функции-конструкторы.md",
+            "file": "web/js/Свойство new.target.md",
             "mode": "source",
             "source": true
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "web/js/Функции-конструкторы.md",
+                "file": "web/js/Свойство new.target.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "web/js/Функции-конструкторы.md"
+                "file": "web/js/Свойство new.target.md"
               }
             }
           }
@@ -118,11 +118,11 @@
   },
   "active": "4de13a75b1412517",
   "lastOpenFiles": [
+    "web/js/Свойство new.target.md",
     "web/js/Функции-конструкторы.md",
     "web/js/Object.md",
     "web/js/Symbol.md",
     "web/js/String.md",
-    "web/js/Свойство new.target.md",
     "web/js/Стрелочные функции.md",
     "web/js/Nesting templates.md",
     "web/js/Hoisting.md",
