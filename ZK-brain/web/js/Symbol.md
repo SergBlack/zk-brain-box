@@ -32,3 +32,4 @@ https://learn.javascript.ru/symbol
 --- 
 ### Links
 - [[Глобальные символы]]
+- [[Системные символы]]
