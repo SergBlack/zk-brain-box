@@ -15,3 +15,4 @@ https://learn.javascript.ru/object
 - [[Функции-конструкторы]]
 - [[Функции]]
 - [[Garbage collector]]
+- [[Array]]
