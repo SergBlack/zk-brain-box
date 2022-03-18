@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "web/js/Методы у примитивов.md",
+            "file": "web/js/Number.md",
             "mode": "source",
             "source": true
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "web/js/Методы у примитивов.md",
+                "file": "web/js/Number.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "web/js/Методы у примитивов.md"
+                "file": "web/js/Number.md"
               }
             }
           }
@@ -118,15 +118,15 @@
   },
   "active": "4de13a75b1412517",
   "lastOpenFiles": [
+    "web/js/Number.md",
+    "web/js/Восьмеричные числа.md",
+    "web/js/Двоичные числа.md",
+    "web/js/Шестнадцатеричные числа.md",
     "web/js/Методы у примитивов.md",
     "web/js/Типы данных.md",
     "web/js/Symbol.md",
     "_inbox/Системные символы.md",
     "web/js/Глобальные символы.md",
-    "web/additional/Docker контейнер.md",
-    "web/js/Функции-конструкторы.md",
-    "web/ts/Typescript.md",
-    "web/js/Undefined.md",
-    "web/js/This.md"
+    "web/additional/Docker контейнер.md"
   ]
 }
