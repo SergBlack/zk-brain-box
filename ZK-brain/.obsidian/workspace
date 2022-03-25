@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "web/js/Array.md",
+            "file": "web/js/Методы проверки типов.md",
             "mode": "source",
             "source": true
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dockerfile",
+                "query": "Источник",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "web/js/Array.md",
+                "file": "web/js/Методы проверки типов.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "web/js/Array.md"
+                "file": "web/js/Методы проверки типов.md"
               }
             }
           }
@@ -118,15 +118,15 @@
   },
   "active": "f1a01f810970b339",
   "lastOpenFiles": [
-    "web/js/Array.md",
-    "web/js/Object.md",
-    "web/js/Class.md",
-    "web/js/JavaScript.md",
-    "base/Other materials.md",
-    "web/js/String.md",
-    "web/js/Методы чисел.md",
+    "web/js/Методы проверки типов.md",
     "web/js/Методы у примитивов.md",
-    "web/js/Number.md",
-    "web/js/Восьмеричные числа.md"
+    "web/js/Class.md",
+    "web/js/Object.md",
+    "web/js/Контекст вызова функции.md",
+    "web/js/Типы данных.md",
+    "web/js/Динамичная и статичная типизация.md",
+    "web/js/JavaScript.md",
+    "web/js/Array.md",
+    "base/Other materials.md"
   ]
 }
