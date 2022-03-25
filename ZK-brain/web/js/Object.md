@@ -16,3 +16,4 @@ https://learn.javascript.ru/object
 - [[Функции]]
 - [[Garbage collector]]
 - [[Array]]
+- [[Class]]

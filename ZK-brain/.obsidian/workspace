@@ -120,13 +120,13 @@
   "lastOpenFiles": [
     "web/js/Array.md",
     "web/js/Object.md",
+    "web/js/Class.md",
+    "web/js/JavaScript.md",
+    "base/Other materials.md",
     "web/js/String.md",
     "web/js/Методы чисел.md",
     "web/js/Методы у примитивов.md",
     "web/js/Number.md",
-    "web/js/Восьмеричные числа.md",
-    "web/js/Двоичные числа.md",
-    "web/js/Шестнадцатеричные числа.md",
-    "web/js/Типы данных.md"
+    "web/js/Восьмеричные числа.md"
   ]
 }
