@@ -11,9 +11,8 @@ Tags: #javascript
 
 - Свойство `prototype` является особым, только когда оно назначено функции-конструктору, которая вызывается оператором `new`. В обычных объектах `prototype` будет обычным полем (key).
 
+По умолчанию в функциях `Function.prototype = { constructor: Function }`, поэтому можно получить конструктор объекта через свойство `constructor`.
+![[Pasted image 20220326235245.png]]
+
 ## Источник
 https://learn.javascript.ru/function-prototype
-
---- 
-### Links
-- [[]]
