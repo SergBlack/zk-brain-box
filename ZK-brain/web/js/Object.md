@@ -17,3 +17,4 @@ https://learn.javascript.ru/object
 - [[Garbage collector]]
 - [[Array]]
 - [[Class]]
+- [[Object tuning]]
