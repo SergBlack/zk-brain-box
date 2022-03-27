@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "651adc744d459025",
+        "id": "73b96d196436368b",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -86,9 +86,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "651adc744d459025",
+  "active": "73b96d196436368b",
   "lastOpenFiles": [
     "ZK-brain/web/js/Object tuning.md",
+    "ZK-brain/web/js/Descriptors.md",
     "ZK-brain/web/js/Object.md",
     "ZK-brain/web/js/Function.prototype.md",
     "ZK-brain/web/js/Функции-конструкторы.md",
@@ -96,7 +97,6 @@
     "ZK-brain/web/js/This.md",
     "ZK-brain/base/Web.md",
     "ZK-brain/base/_Career Map.md",
-    "ZK-brain/base/Frameworks.md",
-    "ZK-brain/base/English.md"
+    "ZK-brain/base/Frameworks.md"
   ]
 }
