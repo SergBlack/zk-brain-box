@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "73b96d196436368b",
+        "id": "94fe3630da3bf44d",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ZK-brain/web/js/Object tuning.md",
+            "file": "ZK-brain/web/js/Object.prototype.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ZK-brain/web/js/Object tuning.md",
+                "file": "ZK-brain/web/js/Object.prototype.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "73b96d196436368b",
+  "active": "94fe3630da3bf44d",
   "lastOpenFiles": [
+    "ZK-brain/web/js/Object.prototype.md",
     "ZK-brain/web/js/Object tuning.md",
+    "ZK-brain/web/js/Function.prototype.md",
+    "ZK-brain/web/js/Прототипное наследование.md",
     "ZK-brain/web/js/Descriptors.md",
     "ZK-brain/web/js/Object.md",
-    "ZK-brain/web/js/Function.prototype.md",
     "ZK-brain/web/js/Функции-конструкторы.md",
     "ZK-brain/web/js/Методы проверки типов.md",
     "ZK-brain/web/js/This.md",
-    "ZK-brain/base/Web.md",
-    "ZK-brain/base/_Career Map.md",
-    "ZK-brain/base/Frameworks.md"
+    "ZK-brain/base/Web.md"
   ]
 }
