@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ZK-brain/web/js/Прототипное наследование.md",
+            "file": "ZK-brain/web/js/Методы и prototype.md",
             "mode": "source"
           }
         }
@@ -48,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ZK-brain/web/js/Прототипное наследование.md",
+                "file": "ZK-brain/web/js/Методы и prototype.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +88,7 @@
   },
   "active": "94fe3630da3bf44d",
   "lastOpenFiles": [
+    "ZK-brain/web/js/Методы и prototype.md",
     "ZK-brain/web/js/Прототипное наследование.md",
     "ZK-brain/web/js/Примитивы и prototype.md",
     "ZK-brain/web/js/Object.prototype.md",
@@ -97,7 +97,6 @@
     "ZK-brain/web/js/Object tuning.md",
     "ZK-brain/web/js/Descriptors.md",
     "ZK-brain/web/js/Функции-конструкторы.md",
-    "ZK-brain/web/js/Методы проверки типов.md",
-    "ZK-brain/web/js/This.md"
+    "ZK-brain/web/js/Методы проверки типов.md"
   ]
 }
