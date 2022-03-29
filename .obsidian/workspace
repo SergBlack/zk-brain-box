@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ZK-brain/web/js/Примитивы и prototype.md",
+            "file": "ZK-brain/web/js/Прототипное наследование.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "def",
+                "query": "getPr",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,7 +48,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ZK-brain/web/js/Примитивы и prototype.md",
+                "file": "ZK-brain/web/js/Прототипное наследование.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,9 +89,9 @@
   },
   "active": "94fe3630da3bf44d",
   "lastOpenFiles": [
+    "ZK-brain/web/js/Прототипное наследование.md",
     "ZK-brain/web/js/Примитивы и prototype.md",
     "ZK-brain/web/js/Object.prototype.md",
-    "ZK-brain/web/js/Прототипное наследование.md",
     "ZK-brain/web/js/Function.prototype.md",
     "ZK-brain/web/js/Object.md",
     "ZK-brain/web/js/Object tuning.md",
