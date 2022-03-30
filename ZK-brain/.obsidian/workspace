@@ -119,6 +119,7 @@
   "active": "930d38582713924d",
   "lastOpenFiles": [
     "web/js/Class.md",
+    "web/js/Class. Вызов new.md",
     "web/js/Boolean.md",
     "web/js/BigInt.md",
     "web/js/Функции-конструкторы.md",
@@ -126,7 +127,6 @@
     "web/js/Прототипное наследование.md",
     "files/Pasted image 20220328232030.png",
     "web/js/Параметры (аргументы) функции.md",
-    "web/js/Примитивы и prototype.md",
-    "web/js/Динамичная и статичная типизация.md"
+    "web/js/Примитивы и prototype.md"
   ]
 }
