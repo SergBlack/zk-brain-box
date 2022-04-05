@@ -15,3 +15,4 @@ https://learn.javascript.ru/class
 ### Links
 - [[Class. Вызов new]]
 - [[Class vs Function-constructor]]
+- [[Свойства классов]]

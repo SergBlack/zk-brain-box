@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "web/js/Class vs Function-constructor.md",
+            "file": "web/js/Свойства классов.md",
             "mode": "source",
             "source": true
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "web/js/Class vs Function-constructor.md",
+                "file": "web/js/Свойства классов.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "web/js/Class vs Function-constructor.md"
+                "file": "web/js/Свойства классов.md"
               }
             }
           }
@@ -118,15 +118,15 @@
   },
   "active": "930d38582713924d",
   "lastOpenFiles": [
-    "web/js/Class vs Function-constructor.md",
+    "web/js/Свойства классов.md",
     "web/js/Class.md",
+    "web/js/Class vs Function-constructor.md",
     "web/js/Class. Вызов new.md",
     "web/js/Глобальные символы.md",
     "web/js/Boolean.md",
     "web/js/BigInt.md",
     "web/js/Функции-конструкторы.md",
     "web/js/Object.prototype.md",
-    "web/js/Прототипное наследование.md",
-    "files/Pasted image 20220328232030.png"
+    "web/js/Прототипное наследование.md"
   ]
 }
