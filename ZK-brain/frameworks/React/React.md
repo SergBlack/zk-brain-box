@@ -12,4 +12,4 @@ https://reactjs.org/
 ### Links
 - [[React. Main concepts]]
 - [[React. Advanced]]
-- [[React. Hooks]]
+- [[Hooks]]
