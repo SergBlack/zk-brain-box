@@ -21,3 +21,7 @@ Tags: #react #status-in-progress
 - `useId` - дополнить;
 - `useSyncExternalStore` - дополнить;
 - `useInsertionEffect` - дополнить;
+
+--- 
+### Links
+- [[Purpose of useCallback]]

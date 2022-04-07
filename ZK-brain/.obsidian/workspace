@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "930d38582713924d",
+        "id": "e99587ba543623f1",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "frameworks/React/Hooks.md",
+            "file": "frameworks/React/Purpose of useCallback.md",
             "mode": "source",
             "source": true
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "frameworks/React/Hooks.md",
+                "file": "frameworks/React/Purpose of useCallback.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "frameworks/React/Hooks.md"
+                "file": "frameworks/React/Purpose of useCallback.md"
               }
             }
           }
@@ -116,8 +116,9 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "930d38582713924d",
+  "active": "e99587ba543623f1",
   "lastOpenFiles": [
+    "frameworks/React/Purpose of useCallback.md",
     "frameworks/React/Hooks.md",
     "frameworks/React/React.md",
     "base/Frameworks.md",
@@ -126,7 +127,6 @@
     "base/_Career Map.md",
     "base/_my zettelkasten.md",
     "base/English.md",
-    "base/Quality & EngX.md",
-    "base/Software design.md"
+    "base/Quality & EngX.md"
   ]
 }
