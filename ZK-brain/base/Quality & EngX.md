@@ -12,3 +12,5 @@ Software engineering practices (EngX Practices):
 --- 
 ### Links
 - [[Clean code]]
+- [[Agile]]
+- [[Waterfall]]

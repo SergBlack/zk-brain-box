@@ -11,3 +11,4 @@ https://git-scm.com/
 --- 
 ### Links
 - [[Remove cached files]]
+- [[Copy file from other branch]]
