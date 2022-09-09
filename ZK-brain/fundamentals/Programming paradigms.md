@@ -17,5 +17,5 @@ Text
 
 --- 
 ### Links
-- [[Object-oriented programming]]
+- [[OOP. Object-oriented programming]]
 - [[Functional programming]]

@@ -62,6 +62,13 @@
         "a": 1,
         "rgb": 11621088
       }
+    },
+    {
+      "query": "#fundamentals",
+      "color": {
+        "a": 1,
+        "rgb": 6828458
+      }
     }
   ],
   "collapse-display": false,
@@ -74,6 +81,6 @@
   "repelStrength": 11.498127340824,
   "linkStrength": 1,
   "linkDistance": 342,
-  "scale": 0.3823010968769965,
+  "scale": 0.27268599173600705,
   "close": false
 }
