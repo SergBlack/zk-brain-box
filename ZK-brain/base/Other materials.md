@@ -9,3 +9,4 @@ Tags: #base
 ### Links
 - [[Git]]
 - [[Docker]]
+- [[STAR]]
